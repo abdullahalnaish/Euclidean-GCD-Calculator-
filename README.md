@@ -4,14 +4,14 @@ A lightweight Python lab application that implements the algorithm to calculate 
 # Euclidean GCD Calculator Lab
 
 ## Lab Objectives
-- Understand the mathematical concepts of the Euclidean algorithm
+- Understanding the mathematical concepts of the Euclidean algorithm
 - Implement iterative and recursive approaches in Python
 - Verify code correctness using automated Unit Tests
 
 ## Prerequisites
 - Python 3.x installed
 
-## Project Structure
+## Project Structures :
 - gcd_calculator.py: Core functions
 - test_gcd.py: Automation suite
 - README.md: Lab documentation
